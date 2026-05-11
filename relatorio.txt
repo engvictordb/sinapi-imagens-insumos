@@ -1,0 +1,20 @@
+============================================================
+RELATÓRIO - Fase 2 Extração SINAPI
+============================================================
+PDF: /Users/victordiasy/Desktop/sinapi-imagens-insumos/SINAPI_Fichas_Especificacao_Tecnica_Insumos.pdf
+Tempo total: 12.7s
+
+CONTAGENS:
+  total_paginas: 6056
+  capa_pulada: 1
+  fichas_com_codigo: 6009
+  fichas_sem_codigo: 46
+  fichas_com_imagem_salva: 5952
+  fichas_sem_imagem: 57
+  codigos_duplicados: 0
+  imagens_filtradas_logo: 0
+  erros: 0
+
+Total entries em mapping.json: 5952
+
+PÁGINAS SEM CÓDIGO (não-capa, 46): [1, 1174, 1176, 1183, 1187, 1189, 2057, 2366, 2432, 2436, 2736, 4568, 5940, 5942, 5944, 5946, 5948, 5950, 5952, 5954, 5956, 5958, 5960, 5962, 5964, 5966, 5968, 5970, 5972, 5974]...
